@@ -8,4 +8,5 @@ git init
 git submodule init
 
 git submodule add https://github.com/tpope/vim-fugitive.git pack/asric/start/vim-fugitive
+git submodule add https://github.com/flazz/vim-colorschemes.git pack/asric/start//vim-colorschemes
 
